@@ -12,7 +12,7 @@ I also know a few concepts about Flutter and MongoDB.
 
 </br>
 
-I can work remotely at companies across the globe, as long as I can communicate in English or Portuguese, so if you need me for anything, feel free to contact me :grin:
+I can work remotely at companies all around the globe, as long as I can communicate in English or Portuguese, so if you need me for anything, feel free to contact me :grin:
 
 ---
 
