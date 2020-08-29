@@ -1,6 +1,6 @@
 ### Hi guys 👋
 
-I'm Dan, I'm 21 and from Brasil 🇧🇷
+I'm Dan, I'm 21 and living in Brasil 🇧🇷
 
 I'm currently studying Computer Science at the Federal University of Espírito Santo.
 
