@@ -6,7 +6,7 @@ I'm currently studying Computer Science at the Federal University of Espírito S
 
 </br>
 
-I can code React Native, Firebase, NodeJS, React, HTML and CSS.
+I can code React Native, Firebase, NodeJS, ReactJS, HTML and CSS.
 
 I also know a few concepts about Flutter and MongoDB.
 
