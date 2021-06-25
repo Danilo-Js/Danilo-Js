@@ -4,6 +4,8 @@ I'm Dan, I'm 22 and living in Brasil 🇧🇷
 
 I'm currently studying Computer Science at the Federal University of Espírito Santo.
 
+[![Whatsapp](https://img.shields.io/badge/Talk_to_me-333333?style=flat&logo=Whatsapp)](https://wa.me/55028999728865) 
+
 </br>
 
 **About my work** 🚀 
@@ -21,7 +23,6 @@ I'm currently studying Computer Science at the Federal University of Espírito S
 </br>
 
 I can work remotely at companies all around the globe, as long as I can communicate in English or Portuguese :grin:
-</br></br>[![Whatsapp](https://img.shields.io/badge/Talk_to_me-333333?style=flat&logo=Whatsapp)](https://wa.me/55028999728865) 
 
 ---
 [![LinkedIn](https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-32.png)](https://www.linkedin.com/in/danilo-js/) [![Outlook](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/243_Outlook_logo-32.png)](mailto:danilojldeo@hotmail.com) [![Instagram](https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-03-32.png)](https://www.instagram.com/dan_jsl/) [![Facebook](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/Untitled-16-32.png)](https://www.facebook.com/danilolima066)
