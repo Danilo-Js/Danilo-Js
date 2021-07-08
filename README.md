@@ -12,7 +12,8 @@ I'm currently studying Computer Science at the Federal University of Espírito S
 
 ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
 ![NodeJS](https://img.shields.io/badge/NodeJS-333333?style=flat&logo=)
-![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=Docker)</br>
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=Docker)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=TypeScript)</br>
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
