@@ -2,7 +2,7 @@
 
 I'm Dan, I'm 22 and living in Brasil 🇧🇷
 
-I'm currently studying Computer Science at Federal University of Espírito Santo.
+I'm currently studying Computer Science at UFES (Federal University of Espírito Santo), and working fulltime as a React Native Developer at EasyFarm.
 
 [![Whatsapp](https://img.shields.io/badge/Talk_to_me-333333?style=flat&logo=Whatsapp)](https://wa.me/55028999728865) 
 
