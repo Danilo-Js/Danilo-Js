@@ -2,7 +2,7 @@
 
 I'm Dan, I'm 22 and living in Brasil 🇧🇷
 
-I'm currently studying Computer Science at the Federal University of Espírito Santo.
+I'm currently studying Computer Science at Federal University of Espírito Santo.
 
 [![Whatsapp](https://img.shields.io/badge/Talk_to_me-333333?style=flat&logo=Whatsapp)](https://wa.me/55028999728865) 
 
@@ -10,13 +10,18 @@ I'm currently studying Computer Science at the Federal University of Espírito S
 
 **About my work** 🚀 
 
+I'm familiar with the stack below
+
 ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
+![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
 ![NodeJS](https://img.shields.io/badge/NodeJS-333333?style=flat&logo=)
-![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=Docker)
-![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=TypeScript)</br>
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=TypeScript)
+
+But I also know about
+
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=Docker)
 ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase)
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Danilo-Js&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Js&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
