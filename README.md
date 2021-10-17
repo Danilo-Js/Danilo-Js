@@ -37,5 +37,5 @@ But I also know about
 I can work remotely at companies all around the globe, as long as I can communicate in English or Portuguese :grin:
 
 ---
-
+![Snake animation](https://github.com/Danilo-Js/Danilo-Js/blob/output/github-contribution-grid-snake.svg)
 
