@@ -14,8 +14,8 @@ I'm currently studying Computer Science at UFES (Federal University of Espírito
 I'm familiar with the stack below
 
 ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
-![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
-![NodeJS](https://img.shields.io/badge/NodeJS-333333?style=flat&logo=nodejs)
+![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)
+![NodeJS](https://img.shields.io/badge/NodeJS-333333?style=flat&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=TypeScript)
 
 But I also know about
@@ -23,7 +23,7 @@ But I also know about
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![C](https://img.shields.io/badge/C-333333?style=flat&logo=C)
-![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=sql)
+![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=Docker)
 ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase)
 
