@@ -15,10 +15,6 @@ I'm familiar with the stack below
 
 ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=TypeScript)
-![NodeJS](https://img.shields.io/badge/NodeJS-333333?style=flat&logo=Node.js)
-![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=Docker)
-![Express](https://img.shields.io/badge/Express-333333?style=flat&logo=Express)
-![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase)
 
 But I also know about
 
@@ -26,6 +22,12 @@ But I also know about
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![C](https://img.shields.io/badge/C-333333?style=flat&logo=C)
+![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=Java)
+
+![NodeJS](https://img.shields.io/badge/NodeJS-333333?style=flat&logo=Node.js)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=Docker)
+![Express](https://img.shields.io/badge/Express-333333?style=flat&logo=Express)
+![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase)
 ![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=postgresql)
 
 
