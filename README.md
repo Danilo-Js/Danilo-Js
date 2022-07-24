@@ -2,7 +2,7 @@
 
 I'm Dan, I'm 22 and living in Brasil 🇧🇷
 
-I'm currently studying Computer Science at UFES (Federal University of Espírito Santo), and working as a React Native Developer at [EasyFarm](https://apps.apple.com/br/app/easyfarm/id1585028895).
+I'm currently studying Computer Science at UFES (Federal University of Espírito Santo)
 
 [![Whatsapp](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_23-whatsapp-32.png)](https://wa.me/55028999728865) 
 [![LinkedIn](https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-32.png)](https://www.linkedin.com/in/danilo-js/) [![Outlook](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/243_Outlook_logo-32.png)](mailto:danilojldeo@hotmail.com) [![Instagram](https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-03-32.png)](https://www.instagram.com/dan_jsl/) [![Facebook](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/Untitled-16-32.png)](https://www.facebook.com/danilolima066)
