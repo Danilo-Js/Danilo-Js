@@ -24,7 +24,7 @@ But I also know about
 ![NodeJS](https://img.shields.io/badge/NodeJS-333333?style=flat&logo=Node.js)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=Docker)
 ![Express](https://img.shields.io/badge/Express-333333?style=flat&logo=Express)
-![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=Firebase)
 ![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=postgresql)
 
 </br>
