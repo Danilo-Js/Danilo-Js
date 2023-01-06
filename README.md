@@ -34,10 +34,12 @@ But I also know about
 [![Whatsapp](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_23-whatsapp-32.png)](https://wa.me/55028999728865) 
 [![LinkedIn](https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-32.png)](https://www.linkedin.com/in/danilo-js/) [![Email](https://user-images.githubusercontent.com/49252358/195991807-1efd40fa-111e-490e-bb06-d145ac1f3007.png)](mailto:danilojldeo@hotmail.com)
 
+<!---
 <div>
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=Danilo-Js&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Js&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+-->
 
 </br>
 
