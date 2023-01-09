@@ -39,10 +39,9 @@ But I also know about
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=Danilo-Js&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Js&layout=compact&langs_count=7&theme=dracula"/>
 </div>
--->
 
 </br>
 
 ---
 ![Snake animation](https://github.com/Danilo-Js/Danilo-Js/blob/output/github-contribution-grid-snake.svg)
-
+-->
