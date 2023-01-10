@@ -18,6 +18,7 @@ But I also know about
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![C](https://img.shields.io/badge/C-333333?style=flat&logo=C)
 ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=Java)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=Python)
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-333333?style=flat&logo=Node.js)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=Docker)
