@@ -1,6 +1,6 @@
 #### Hi guys 👋
 
-I'm Dan, I'm 23 and living in Brazil 🇧🇷
+I'm Dan, I'm 24 and living in Brazil 🇧🇷
 
 I'm currently studying Computer Science at UFES (Federal University of Espírito Santo)
 
