@@ -1,12 +1,12 @@
 #### Hi guys 👋
 
-I'm Dan, I'm 23 and living in Brasil 🇧🇷
+I'm Dan, I'm 23 and living in Brazil 🇧🇷
 
 I'm currently studying Computer Science at UFES (Federal University of Espírito Santo)
 
 #### About my work 🚀 
 
-I'm familiar with the stack below
+My main stack is
 
 ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=TypeScript)
@@ -14,10 +14,12 @@ I'm familiar with the stack below
 But I also know about
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)
+![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.JS)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+
 ![C](https://img.shields.io/badge/C-333333?style=flat&logo=C)
-![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=Java)
+![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=Python)
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-333333?style=flat&logo=Node.js)
@@ -36,9 +38,10 @@ But I also know about
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=Danilo-Js&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Js&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+-->
 
 </br>
 
 ---
 ![Snake animation](https://github.com/Danilo-Js/Danilo-Js/blob/output/github-contribution-grid-snake.svg)
--->
+
